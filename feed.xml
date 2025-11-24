@@ -3,7 +3,7 @@
     <title>Robin&#x27; Blog</title>
     <link href="https://robinfamily.shop/feed.xml" rel="self" />
     <link href="https://robinfamily.shop" />
-    <updated>2025-11-24T14:19:43+08:00</updated>
+    <updated>2025-11-24T22:41:49+08:00</updated>
     <author>
         <name>Robin</name>
     </author>
@@ -19,6 +19,10 @@
 
         <updated>2025-11-24T14:19:43+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ewi_LzyCRdM?si=gqDsq0cRYwwEUgHJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
     </entry>
 </feed>
