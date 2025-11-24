@@ -5,9 +5,22 @@
     "home_page_url": "https://robinfamily.shop",
     "feed_url": "https://robinfamily.shop/feed.json",
     "user_comment": "",
+    "icon": "https://robinfamily.shop/media/website/DSC_0322.JPG",
     "author": {
         "name": "Robin"
     },
     "items": [
+        {
+            "id": "https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html",
+            "url": "https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html",
+            "title": "Hello, world!  This is my frist bolg!",
+            "author": {
+                "name": "Robin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-24T14:19:43+08:00",
+            "date_modified": "2025-11-24T14:19:43+08:00"
+        }
     ]
 }

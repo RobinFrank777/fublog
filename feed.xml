@@ -3,10 +3,22 @@
     <title>Robin&#x27; Blog</title>
     <link href="https://robinfamily.shop/feed.xml" rel="self" />
     <link href="https://robinfamily.shop" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-11-24T14:19:43+08:00</updated>
     <author>
         <name>Robin</name>
     </author>
     <id>https://robinfamily.shop</id>
 
+    <entry>
+        <title>Hello, world!  This is my frist bolg!</title>
+        <author>
+            <name>Robin</name>
+        </author>
+        <link href="https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html"/>
+        <id>https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html</id>
+
+        <updated>2025-11-24T14:19:43+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
