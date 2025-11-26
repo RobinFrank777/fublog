@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Robin&#x27; Blog</title>
+    <title>Robin Blog 2.0</title>
     <link href="https://robinfamily.shop/feed.xml" rel="self" />
     <link href="https://robinfamily.shop" />
-    <updated>2025-11-25T00:03:08+08:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Robin</name>
     </author>
     <id>https://robinfamily.shop</id>
 
-    <entry>
-        <title>Hello, world!  This is my frist bolg!</title>
-        <author>
-            <name>Robin</name>
-        </author>
-        <link href="https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html"/>
-        <id>https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html</id>
-
-        <updated>2025-11-24T14:19:43+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/gviGBT856XY?si=cyomomlCxNB7xe-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
 </feed>

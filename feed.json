@@ -1,27 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Robin&#x27; Blog",
+    "title": "Robin Blog 2.0",
     "description": "",
     "home_page_url": "https://robinfamily.shop",
     "feed_url": "https://robinfamily.shop/feed.json",
     "user_comment": "",
-    "icon": "https://robinfamily.shop/media/website/DSC_0322.JPG",
     "author": {
         "name": "Robin"
     },
     "items": [
-        {
-            "id": "https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html",
-            "url": "https://robinfamily.shop/hello-world-this-is-my-frist-bolg.html",
-            "title": "Hello, world!  This is my frist bolg!",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gviGBT856XY?si=cyomomlCxNB7xe-w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "Robin"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-24T14:19:43+08:00",
-            "date_modified": "2025-11-25T00:03:08+08:00"
-        }
     ]
 }
