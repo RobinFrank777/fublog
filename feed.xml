@@ -3,10 +3,33 @@
     <title>Robin Blog 2.0</title>
     <link href="https://robinfamily.shop/feed.xml" rel="self" />
     <link href="https://robinfamily.shop" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-08-21T18:01:44+08:00</updated>
     <author>
         <name>Robin</name>
     </author>
     <id>https://robinfamily.shop</id>
 
+    <entry>
+        <title>同步测试</title>
+        <author>
+            <name>Robin</name>
+        </author>
+        <link href="https://robinfamily.shop/tong-bu-ce-shi.html"/>
+        <id>https://robinfamily.shop/tong-bu-ce-shi.html</id>
+
+        <updated>2026-08-21T18:01:44+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    化合价那几个模块比例不同。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    化合价那几个模块比例不同。
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
