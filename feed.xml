@@ -3,12 +3,31 @@
     <title>Robin Blog 2.0</title>
     <link href="https://robinfamily.shop/feed.xml" rel="self" />
     <link href="https://robinfamily.shop" />
-    <updated>2026-08-21T23:00:44+08:00</updated>
+    <updated>2026-08-21T23:16:17+08:00</updated>
     <author>
         <name>Robin</name>
     </author>
     <id>https://robinfamily.shop</id>
 
+    <entry>
+        <title>骑车看风景</title>
+        <author>
+            <name>Robin</name>
+        </author>
+        <link href="https://robinfamily.shop/qi-che-kan-feng-jing.html"/>
+        <id>https://robinfamily.shop/qi-che-kan-feng-jing.html</id>
+            <category term="健康生活"/>
+
+        <updated>2026-08-21T23:16:17+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://robinfamily.shop/media/posts/3/gallery/a0ec94d488e4c7c0f6918ca874ab4e4b.jpeg" data-size="3801x2136"><img loading="lazy" src="https://robinfamily.shop/media/posts/3/gallery/a0ec94d488e4c7c0f6918ca874ab4e4b-thumbnail.jpeg" alt="" width="720" height="405"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>晚霞</title>
         <author>
